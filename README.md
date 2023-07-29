@@ -12,10 +12,10 @@ Currently, two official plugins are available:
 ### https://www.npmjs.com/package/json-server 
 
 ## Task oluşturma ve oluşturulan taskları listeleme kısmı:
-![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/73481b89-fd9c-4e64-8e56-1eaa69b47359)
+![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/02c92c81-aad1-4a91-a8da-fd88cbfde71e)
 
 ## İstenilen taskı silme ya da güncelleme işlemlerinin yapılması:
-![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/f1ffc824-871f-4513-a3b3-4673bba0653d)
+![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/ba8e4507-835a-4aad-90be-58be342fcc39)
 
 ## Alttaki fotoğrafta görüldüğü gibi güncelleme işlemi başarılı bir şekilde tamamlanır: 
-![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/6997967c-3105-4977-b1ec-2f9ad0d808f9)
+![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/a34a98bd-4568-4e24-9c0c-3585d62dd2f4)
