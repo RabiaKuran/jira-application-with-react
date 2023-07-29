@@ -17,5 +17,5 @@ Currently, two official plugins are available:
 ## İstenilen taskı silme ya da güncelleme işlemlerinin yapılması:
 ![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/ba8e4507-835a-4aad-90be-58be342fcc39)
 
-## Alttaki fotoğrafta görüldüğü gibi güncelleme işlemi başarılı bir şekilde tamamlanır: 
-![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/a34a98bd-4568-4e24-9c0c-3585d62dd2f4)
+## Alttaki fotoğrafta görüldüğü gibi güncelleme ve silme işlemleri başarılı bir şekilde tamamlanır: 
+![image](https://github.com/RabiaKuran/jira-application-with-react/assets/59939284/66cb8f40-f661-4a95-91f4-207111071f36)
